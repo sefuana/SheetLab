@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="4dp">
+
+    <!-- A button -->
+    <TextView
+        android:id="@+id/btn_col_a"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:text="A"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/bg_float_btn"
+        android:layout_marginBottom="6dp"
+        android:visibility="gone"
+        android:elevation="6dp"/>
+
+    <!-- B button -->
+    <TextView
+        android:id="@+id/btn_col_b"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:text="B"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/bg_float_btn"
+        android:layout_marginBottom="6dp"
+        android:visibility="gone"
+        android:elevation="6dp"/>
+
+    <!-- C button -->
+    <TextView
+        android:id="@+id/btn_col_c"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:text="C"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/bg_float_btn"
+        android:layout_marginBottom="6dp"
+        android:visibility="gone"
+        android:elevation="6dp"/>
+
+    <!-- + button (main, draggable) -->
+    <TextView
+        android:id="@+id/btn_float_plus"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:text="+"
+        android:gravity="center"
+        android:textSize="26sp"
+        android:textColor="#000000"
+        android:background="@drawable/bg_float_plus"
+        android:elevation="8dp"/>
+
+</LinearLayout>

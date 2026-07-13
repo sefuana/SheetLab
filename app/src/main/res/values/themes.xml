@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SheetLab" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+    </style>
+
+    <style name="Theme.SheetLab.Splash" parent="Theme.SheetLab">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="CellHeader" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/cell_header_text</item>
+        <item name="android:background">@color/cell_header_bg</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CellText" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/cell_text</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+</resources>

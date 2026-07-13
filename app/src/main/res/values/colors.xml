@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#7B9FE0</color>
+    <color name="accent_dark">#5B7FC0</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#1A1A2E</color>
+    <color name="splash_text">#FFFFFF</color>
+    <color name="splash_sub">#AAAACC</color>
+    <color name="splash_owner">#7B9FE0</color>
+
+    <!-- Fab -->
+    <color name="fab_bg">#7B9FE0</color>
+    <color name="fab_icon">#1A1A1A</color>
+
+    <!-- Cell -->
+    <color name="cell_border">#333355</color>
+    <color name="cell_bg">#1E1E2E</color>
+    <color name="cell_header_bg">#252540</color>
+    <color name="cell_text">#DDDDFF</color>
+    <color name="cell_header_text">#AAAACC</color>
+
+    <!-- Highlight -->
+    <color name="highlight">#7B9FE0</color>
+
+    <!-- For theme -->
+    <color name="colorPrimary">#7B9FE0</color>
+    <color name="colorPrimaryVariant">#5B7FC0</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#9F7BE0</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorSurface">#252535</color>
+    <color name="colorOnSurface">#EEEEEE</color>
+    <color name="colorBackground">#1A1A2E</color>
+    <color name="colorOnBackground">#EEEEEE</color>
+</resources>

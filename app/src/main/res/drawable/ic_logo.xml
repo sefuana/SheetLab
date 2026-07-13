@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Background rounded rect -->
+    <path
+        android:fillColor="#252540"
+        android:pathData="M10,10 Q10,0 20,0 L80,0 Q90,0 90,10 L90,90 Q90,100 80,100 L20,100 Q10,100 10,90 Z"/>
+    <!-- Green X like Excel -->
+    <path
+        android:fillColor="#7B9FE0"
+        android:pathData="M20,20 L45,50 L20,80 L32,80 L50,57 L68,80 L80,80 L55,50 L80,20 L68,20 L50,43 L32,20 Z"/>
+    <!-- Bottom accent line -->
+    <path
+        android:fillColor="#9F7BE0"
+        android:pathData="M10,88 L90,88 L90,92 Q90,100 80,100 L20,100 Q10,100 10,92 Z"/>
+</vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Night (dark) mode - same as default since default IS dark -->
+<resources>
+    <color name="colorBackground">#1A1A2E</color>
+    <color name="colorSurface">#252535</color>
+    <color name="colorOnSurface">#EEEEEE</color>
+    <color name="colorOnBackground">#EEEEEE</color>
+    <color name="cell_bg">#1E1E2E</color>
+    <color name="cell_header_bg">#252540</color>
+</resources>
